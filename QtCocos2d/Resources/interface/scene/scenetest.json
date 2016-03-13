@@ -1,0 +1,33 @@
+﻿{
+  "MetaData":{
+    
+  },
+  "SceneGraph":[
+    {
+      "Name": "ButtonTest",
+      "Type": "Button",
+      "CustomClass": "Button",
+      "NodeProperty":{
+        "Position": [100, 100]
+      },
+      "ButtonProperty":{
+        "Title": "TestButton",
+        "Normal": "images/button_00.png",
+        "HighLighted": "images/button_01.png",
+        "Disabled": "images/button_02.png",
+        "Selected": "images/button_01.png"
+      },
+      "CustomProperty":[
+        {
+          "Name":"SEType",
+          "Type": "String",
+          "Value": "se_yes"
+        }
+        ],
+      "Children":[
+        {
+        }
+        ]
+    }
+  ]
+}

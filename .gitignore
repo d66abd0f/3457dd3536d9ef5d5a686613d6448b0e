@@ -26,3 +26,15 @@
 *.exe
 *.out
 *.app
+
+Debug.win32
+Release.win32
+Win32
+QtCocos2d/Debug
+QtCocos2d/Debug.win32
+QtCocos2d/Release
+QtCocos2d/Release.win32
+*.sdf
+*.pdb
+*.suo
+*.user
